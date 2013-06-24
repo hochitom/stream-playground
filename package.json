@@ -1,0 +1,11 @@
+{
+  "name": "stream-playgrounf",
+  "version": "0.0.1",
+  "description": "playing around with streams",
+  "private": true,
+  "dependencies": {
+    "oppressor": "3.1.x"
+  },
+  "author": "hochitom",
+  "repository": ""
+}
