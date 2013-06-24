@@ -11,7 +11,7 @@ var server = net.createServer(function(stream) {
     stream.pipe(m.createStream()).pipe(stream);
 });
 
-server.listen(8080);
+server.listen(8888);
 
 setInterval(function () {
     m.set('count', Number(m.get('count')) + 1);
