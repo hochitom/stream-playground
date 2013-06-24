@@ -4,7 +4,8 @@
   "description": "playing around with streams",
   "private": true,
   "dependencies": {
-    "oppressor": "3.1.x"
+    "oppressor": "*",
+    "scuttlebutt": "*"
   },
   "author": "hochitom",
   "repository": ""
